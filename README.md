@@ -1,4 +1,4 @@
-**Dynamic-Memory-Simulation**
+## Dynamic-Memory-Simulation
 
 This is a C application that allows the user (in this case a software engineer) to allocate memory dynamically using malloc() and free(). 
 
